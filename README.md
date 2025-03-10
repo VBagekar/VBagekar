@@ -15,9 +15,9 @@
 
 ### 🔗 Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/vaishnavi-bagekar" target="blank">
+<a href="https://www.linkedin.com/in/vaishnavi-bagekar-9a7690309/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" /></a>
-<a href="https://medium.com/@bagekarvaishnavi" target="blank">
+<a href="https://medium.com/@bagekarvaishnavi45" target="_blank">
 <img src="https://img.shields.io/badge/Medium-Read%20My%20Blogs-black?style=flat&logo=medium" alt="Medium" /></a>
 </p>
 
