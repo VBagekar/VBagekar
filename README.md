@@ -23,13 +23,6 @@
 
 ---
 
-### 📢 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
-
----
-
 ### ⚙️ Languages and Tools
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
@@ -54,10 +47,5 @@
 ### 📊 GitHub Stats
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=vbagekar&show_icons=true&locale=en&theme=radical" alt="vbagekar" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vbagekar&theme=radical" alt="vbagekar" /></p>
-
----
-
-### 🐍 GitHub Contribution Snake
-![Snake animation](https://github.com/vbagekar/vbagekar/blob/output/github-contribution-grid-snake.svg)
 
 ---
