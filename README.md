@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/vaishnavi-bagekar-9a7690309/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" /></a>
-- 📫 Reach me at <a href="mailto:bagekarvaishnavi45@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail"></a>
+<a href="mailto:bagekarvaishnavi45@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail"></a>
 
 ---
 
