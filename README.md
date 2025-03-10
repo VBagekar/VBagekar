@@ -5,10 +5,6 @@
 
 ---
 
-<img src="https://via.placeholder.com/800x250.png?text=Your+Custom+Banner+Here" alt="Custom GitHub Banner" align="center" />
-
----
-
 ### 🌟 About Me
 - 📝 I regularly write articles on [Medium](https://medium.com/@bagekarvaishnavi45)
 - 📫 Reach me at <a href="mailto:bagekarvaishnavi45@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail"></a>
