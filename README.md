@@ -7,7 +7,6 @@
 
 ### 🌟 About Me
 - 📝 I regularly write articles on [Medium](https://medium.com/@bagekarvaishnavi45)
-- 📫 Reach me at <a href="mailto:bagekarvaishnavi45@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail"></a>
 - 📄 Know about my experiences [here](https://drive.google.com/drive/folders/1dQuhji6zKE5XifgDd8IyVOxunGSZTcCl?usp=sharing)
 - ⚡ **Fun fact:** "Training models to think like humans, while making sure I don't think like a machine!" 🤯
 
@@ -17,9 +16,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/vaishnavi-bagekar-9a7690309/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" /></a>
-<a href="https://medium.com/@bagekarvaishnavi45" target="_blank">
-<img src="https://img.shields.io/badge/Medium-Read%20My%20Blogs-black?style=flat&logo=medium" alt="Medium" /></a>
-</p>
+- 📫 Reach me at <a href="mailto:bagekarvaishnavi45@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail"></a>
 
 ---
 
